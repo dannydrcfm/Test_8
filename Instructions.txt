@@ -1,0 +1,20 @@
+In File Program.cs all code for execution is already implemented just uncomment each problem for execution for example for problem 8 the code needs to be mainClass.problem8();
+
+Problem 8 
+countUnset returns the answer in receives a int parameter witch is the number to check.
+
+Problem 9
+addCondition, add the multiplier and the text to display Example: addCondition(number, text)
+addCondition returns a string with the answer
+
+Problem 10
+String input = Console.ReadLine(); reads the birth from the console if want to interact directly with the code replace '= Console.ReadLine()' with ' = "yearOfBirth"'
+calculateAge receives the year as argument and returns the age.
+
+Problem 11
+Arr1 and arr2 are declared in problem11(), merge method receives both array and returns a new array, foreach concats the array for output.
+
+Problem 12
+Receives the path of the txt with the json, splits in case path has a whitespace at the end, reads the file and stores the file in to the json variable.
+The method ListWithNames() relieves the json argument and returns the names
+The method oldRecent() receives the json argument and returns the oldest and more recent dob. 
